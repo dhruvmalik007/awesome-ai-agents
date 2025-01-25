@@ -5529,6 +5529,15 @@ To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/opena
 
 </details>
 
+
+### :eight_pointed_black_star: [OpenAI's operator](https://openai.com/index/introducing-operator/).
+<details>
+This is the first launch of the chat to ai browser task automation service by openai. currently accessible only to pro users in US.
+</details>
+
+
+
+
 ### :eight_pointed_black_star: [Langchain Data Analyst](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis)
 
 <details>
